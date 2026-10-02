@@ -4,3 +4,4 @@ body { font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, san
        background: var(--bg); max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
 h1 { font-size: 1.7rem; line-height: 1.25; } h2 { font-size: 1.2rem; margin-top: 2rem; }
 a { color: var(--accent); } nav a { margin-right: 16px; } .muted { color: var(--muted); font-size: .95rem; }
+.badge { margin-top: 2.5rem; } .badge img { width: 300px; height: auto; display: block; }
